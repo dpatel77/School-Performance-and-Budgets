@@ -1,0 +1,10 @@
+# You must include a written description of at least two observable trends based on the data.
+
+# Observation 1: School with a smaller number of students have better average grades in all categories;
+#     average math score, average reading score, percent passing math, percent passing reading, and percent overall passing rate.
+    
+# Observation 2: School that spend more money per student do not have higher average math and reading scores.
+#     In fact, schools that spend less per students actually have higher average math and reading scores.
+#     This is not to say that spending less money per student increases the average math and reading scores,
+#     other facts need to be taken into consideration. For example, the size and budget of the schools together. 
+
